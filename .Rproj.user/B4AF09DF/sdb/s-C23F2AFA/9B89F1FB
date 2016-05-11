@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "chi.probability <- function (x, df = 1, n = 1){\n\n}\n",
+    "created" : 1462959569157.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1883667929",
+    "id" : "9B89F1FB",
+    "lastKnownWriteTime" : 1462959643,
+    "last_content_update" : 1462959643256,
+    "path" : "~/Google Drev/ST505/ST516/onsdag/R/chi.probability.R",
+    "project_path" : "R/chi.probability.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
